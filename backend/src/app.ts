@@ -8,4 +8,5 @@ app.use(express.json());
 
 app.use("/api/currency", currencyRoutes);
 
+
 export default app;
